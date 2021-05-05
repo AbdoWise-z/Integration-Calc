@@ -1,6 +1,6 @@
 //
-// Created by Abdo Momahed (AbdoWise) on 2021-05-05
-// version : 1.1
+// Created by Abdo Momahed (AbdoWise) on 2021-04-17
+// version : 1.1 updated (2021-05-05)
 //
 // currently supports : sqrt , cprt , sin , cos , tan , asin , acos , atan
 //                      csc , sec , cot , acsc , asec , acot , sinh , cosh
